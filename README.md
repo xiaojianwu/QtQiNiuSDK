@@ -1,0 +1,2 @@
+# QtQiNiuSDK
+QtQiNiuSDK
